@@ -1,2 +1,6 @@
 Modificando el primer archivo
+<<<<<<< HEAD
 soy juana y me meti en el archivo de leila
+=======
+Modifico el archivo: punto 6 de la actividad
+>>>>>>> b4a41f0b3475f02acf30a67687bb0622051da679
